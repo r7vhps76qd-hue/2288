@@ -1,0 +1,3 @@
+# requirements_agent.txt
+psutil>=5.9.0
+telethon>=1.34.0
